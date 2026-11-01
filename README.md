@@ -1,24 +1,31 @@
 # Hi, I'm Channel! 👋
 
-I'm a Computer Information Systems student at the University of Louisville with interests in software development, database design, systems analysis, and information technology. This profile highlights projects from my academic and professional experience.
+I'm a Computer Information Systems student at the University of Louisville with interests in software development, database design, systems analysis, and information technology. Explore my coursework and projects below.
 
-## Business & Systems Analysis Projects
+## My Projects
 
-Projects coming soon.
+| | |
+| :---: | :---: |
+| **[Business and Systems Analysis](#business-and-systems-analysis)** | **[Database Design & Applications](#database-design--applications)** |
+| **[Programming Skills](#programming-skills)** | **[Internet & Web Development Skills](#internet--web-development-skills)** |
+
+## Business and Systems Analysis
+
+*Projects will be added here.*
 
 ## Database Design & Applications
 
-Projects coming soon.
+*Projects will be added here.*
 
 ## Programming Skills
 
-- [Cable Cost Calculator (C#)](https://github.com/cbcald01/Cable-Cost-Calculator) — Windows Forms application for calculating installation costs
-- [Contract Pricing Program (C#)](https://github.com/cbcald01/Contract-Pricing-Program) — Windows Forms application using arrays and pricing calculations
-- [Library Book Program (C#)](https://github.com/cbcald01/Library-Book-Program) — Object-oriented programming and class design
+- [Cable Cost Calculator (C#)](https://github.com/cbcald01/Cable-Cost-Calculator)
+- [Contract Pricing Program (C#)](https://github.com/cbcald01/Contract-Pricing-Program)
+- [Library Book Program (C#)](https://github.com/cbcald01/Library-Book-Program)
 
-## Internet & Web Development
+## Internet & Web Development Skills
 
-Projects coming soon.
+*Projects will be added here.*
 
 ---
 
