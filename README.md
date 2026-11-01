@@ -13,7 +13,7 @@ Projects coming soon.
 ## Programming Skills
 
 - [C# – Program 1](https://github.com/cbcald01/cbcald01.github.io/blob/main/Program1Spring2025.sln) — Visual Studio solution
-- [C# – Program 4](https://github.com/cbcald01/cbcald01.github.io/blob/main/Program4Spring2025.sln) — Visual Studio solution (additional project files still need to be uploaded)
+- [Library Book Program (C#)](https://github.com/cbcald01/Library-Book-Program) — Object-oriented programming and class design
 
 ## Internet & Web Development
 
