@@ -12,7 +12,7 @@ Projects coming soon.
 
 ## Programming Skills
 
-- [C# – Program 1](https://github.com/cbcald01/cbcald01.github.io/blob/main/Program1Spring2025.sln) — Visual Studio solution
+- [Cable Cost Calculator (C#)](https://github.com/cbcald01/Cable-Cost-Calculator) — Windows Forms application for calculating installation costs
 - [Contract Pricing Program (C#)](https://github.com/cbcald01/Contract-Pricing-Program) — Windows Forms application using arrays and pricing calculations
 - [Library Book Program (C#)](https://github.com/cbcald01/Library-Book-Program) — Object-oriented programming and class design
 
