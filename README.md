@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Channel! 👋
 
-<!--
-**cbcald01/cbcald01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Information Systems student at the University of Louisville with interests in software development, database design, systems analysis, and information technology. This profile highlights projects from my academic and professional experience.
 
-Here are some ideas to get you started:
+## Business & Systems Analysis Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects coming soon.
+
+## Database Design & Applications
+
+Projects coming soon.
+
+## Programming Skills
+
+- [C# – Program 1](https://github.com/cbcald01/cbcald01.github.io/blob/main/Program1Spring2025.sln) — Visual Studio solution
+- [C# – Program 4](https://github.com/cbcald01/cbcald01.github.io/blob/main/Program4Spring2025.sln) — Visual Studio solution (additional project files still need to be uploaded)
+
+## Internet & Web Development
+
+Projects coming soon.
+
+---
+
+### Portfolio & Contact
+
+- [Portfolio Website](https://cbcald02.wixsite.com/channel-caldwell)
+- [LinkedIn](https://www.linkedin.com/in/channel-caldwell-23ba)
+- Email: channelcaldwell@gmail.com
