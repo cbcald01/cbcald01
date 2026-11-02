@@ -33,5 +33,5 @@ I'm a Computer Information Systems student at the University of Louisville with 
 ### Portfolio & Contact
 
 - [Portfolio Website](https://cbcald02.wixsite.com/channel-caldwell)
-- [LinkedIn](https://www.linkedin.com/in/channel-caldwell-23ba)
+- [LinkedIn](https://www.linkedin.com/in/channel-caldwell-23ba37387)
 - Email: channelcaldwell@gmail.com
