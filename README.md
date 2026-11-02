@@ -4,10 +4,11 @@ I'm a Computer Information Systems student at the University of Louisville with 
 
 ## My Projects
 
-| | |
-| :---: | :---: |
-| **[Database Design & Applications](#database-design--applications)** | **[Programming Skills](#programming-skills)** |
-| **[Internet & Web Development Skills](#internet--web-development-skills)** | &nbsp; |
+| Projects |
+| :---: |
+| **[Database Design & Applications](#database-design--applications)** |
+| **[Programming Skills](#programming-skills)** |
+| **[Internet & Web Development Skills](#internet--web-development-skills)** |
 
 ## Database Design & Applications
 
