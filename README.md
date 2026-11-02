@@ -6,8 +6,9 @@ I'm a Computer Information Systems student at the University of Louisville with 
 
 | | |
 | :---: | :---: |
-|**[Database Design & Applications](#database-design--applications)** |
-| **[Programming Skills](#programming-skills)** | **[Internet & Web Development Skills](#internet--web-development-skills)** |
+| **[Database Design & Applications](#database-design--applications)** |
+| **[Programming Skills](#programming-skills)** | 
+| **[Internet & Web Development Skills](#internet--web-development-skills)** |
 
 
 ## Database Design & Applications
