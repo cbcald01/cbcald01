@@ -25,7 +25,7 @@ I'm a Computer Information Systems student at the University of Louisville with 
 
 ## Internet & Web Development Skills
 
-- [HTML - Project 1](https://github.com/cbcald01/HTML-Mobile-Panini)
+- [HTML - Mobile Panini](https://github.com/cbcald01/HTML-Mobile-Panini)
 - [HTML - Project 2](https://github.com/cbcald01/HTML-Tri-Sport)
 
 ---
