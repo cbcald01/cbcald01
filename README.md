@@ -13,7 +13,7 @@ I'm a Computer Information Systems student at the University of Louisville with 
 ## Database Design & Applications
 
 - [ERD - Target Retail Database](https://github.com/cbcald01/ERD)
-- [SQL Query - Exercise 7](https://github.com/cbcald01/Query-Exercise-7)
+- [SQL Query - Property Management Data](https://github.com/cbcald01/Query-Exercise-7)
 - [SQL Query - Exercise 8](https://github.com/cbcald01/Query-Exercise-8)
 - [SQL Query - Exercise 9](https://github.com/cbcald01/Query-Exercise-9)
 
