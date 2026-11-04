@@ -15,7 +15,7 @@ I'm a Computer Information Systems student at the University of Louisville with 
 - [ERD - Target Retail Database](https://github.com/cbcald01/ERD)
 - [SQL Query - Property Management Data](https://github.com/cbcald01/Query-Exercise-7)
 - [SQL Query - Customer Balance Data](https://github.com/cbcald01/Query-Exercise-8)
-- [SQL Query - Exercise 9](https://github.com/cbcald01/Query-Exercise-9)
+- [SQL Query - Update Customer and Property Data](https://github.com/cbcald01/Query-Exercise-9)
 
 ## Programming Skills
 
@@ -32,6 +32,6 @@ I'm a Computer Information Systems student at the University of Louisville with 
 
 ### Portfolio & Contact
 
-- [Portfolio Website](https://cbcald02.wixsite.com/channel-caldwell)
-- [LinkedIn](https://www.linkedin.com/in/channel-caldwell-23ba37387)
+- [View My Portfolio Website](https://cbcald02.wixsite.com/channel-caldwell)
+- [Lets Connect - LinkedIn](https://www.linkedin.com/in/channel-caldwell-23ba37387)
 - Email: channelcaldwell@gmail.com
